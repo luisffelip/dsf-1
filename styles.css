@@ -11,11 +11,11 @@ body {
 main {
     background-color: hsl(0, 0%, 12%);
     color: white;
-    min-width: 375px;
+    min-width: 355px;
     max-width: 1440px;
     border-radius: 10px;
     height: 650px;
-    width: 400px;
+    width: 300px;
     margin: auto;
     margin-top: 10px;
     padding: 10px;
